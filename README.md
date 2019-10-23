@@ -12,4 +12,4 @@
 ## 敏捷设计
 
 + [什么是敏捷设计](https://github.com/a1029563229/ASD/tree/master/7)
-+ [单一职责原则](https://github.com/a1029563229/ASD/tree/master/8)
++ [设计原则](https://github.com/a1029563229/ASD/tree/master/8)
