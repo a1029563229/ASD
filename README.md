@@ -13,3 +13,7 @@
 
 + [什么是敏捷设计](https://github.com/a1029563229/ASD/tree/master/7)
 + [设计原则](https://github.com/a1029563229/ASD/tree/master/8)
+
+## 设计模式
+
++ [COMMAND 模式和 ACTIVE OBJECT 模式](https://github.com/a1029563229/ASD/tree/master/9)
