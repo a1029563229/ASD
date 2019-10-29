@@ -16,4 +16,4 @@
 
 ## 设计模式
 
-+ [COMMAND 模式和 ACTIVE OBJECT 模式](https://github.com/a1029563229/ASD/tree/master/9)
++ [COMMAND 模式和 ACTIVE OBJECT 模式](https://github.com/a1029563229/ASD/tree/master/13)
