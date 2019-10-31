@@ -17,3 +17,6 @@
 ## 设计模式
 
 + [COMMAND 模式和 ACTIVE OBJECT 模式](https://github.com/a1029563229/ASD/tree/master/13)
++ [TEMPLATE METHOD 模式和 STRATEGY 模式](https://github.com/a1029563229/ASD/tree/master/14)
++ [FACADE 模式和 MEDIATOR 模式](https://github.com/a1029563229/ASD/tree/master/14)
++ [SINGLETON 模式和 MONOSTATE 模式](https://github.com/a1029563229/ASD/tree/master/15)
