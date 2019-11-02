@@ -20,3 +20,8 @@
 + [TEMPLATE METHOD 模式和 STRATEGY 模式](https://github.com/a1029563229/ASD/tree/master/14)
 + [FACADE 模式和 MEDIATOR 模式](https://github.com/a1029563229/ASD/tree/master/14)
 + [SINGLETON 模式和 MONOSTATE 模式](https://github.com/a1029563229/ASD/tree/master/15)
++ [NULL OBJECT 模式](https://github.com/a1029563229/ASD/tree/master/16)
+
+## 案例
+
++ [薪水支付案例](https://github.com/a1029563229/ASD/tree/master/example)
