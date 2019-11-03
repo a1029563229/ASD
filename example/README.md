@@ -42,3 +42,9 @@
   - 在薪水计算中使用 STRATEGY 模式或许更为恰当，Employee 类中可以持有一个名为 PaymentClassification 的策略类，这样坐的好处是因为可以无需改动 Employee 对象的任何部分即可更换 PaymentClassification 对象。
   - 对于协会成员关系应用了 NULL OBJECT 模式。每个 Employee 对象包含一个具有两种形式的 Affiliation 对象。如果 Employee 对象包含 NoAffiliation 对象，那么他的薪水除了老板外不会被任何组织调整。然而，如果 Employee 对象包含 UnionAffiliation 对象，那么该雇员就必须要支付 UnionAffiliation 对象中记录的会费和服务费。
   - 这些模式的使用使得该系统很好地符合了开放-封闭原则（OCP）。Employee 类对于支付方式、支付类别以及协会从属关系的变化是封闭的。这样，就可以在不影响 Employee 类的情况下向系统中增加新的支付方式、支付类别以及协会从属关系。
+
+- 为了有效地使用 OCP，必须要搜寻并找出隐藏于应用背后的抽象。
+
+## 发现
+
+- 数据库是实现细节，应该尽可能地推迟有关这些细节的决策。
