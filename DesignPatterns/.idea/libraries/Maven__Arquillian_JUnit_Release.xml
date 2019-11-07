@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="Maven: Arquillian JUnit:Release" type="repository">
+    <properties maven-id="org.jboss.arquillian.junit:arquillian-junit-container:RELEASE" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
