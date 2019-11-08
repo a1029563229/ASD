@@ -61,3 +61,5 @@
 ### 组件协作：
 
 - [Template Method](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/TemplateMethod)
+- [Observer/Event](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Observer)
+- [Strategy](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Strategy)
