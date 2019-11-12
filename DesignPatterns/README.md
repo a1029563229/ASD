@@ -63,3 +63,16 @@
 - [Template Method](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/TemplateMethod)
 - [Observer/Event](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Observer)
 - [Strategy](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Strategy)
+
+### 单一职责：
+
+- [Decorator](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Decorator)
+- [Bridge](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Bridge)
+
+### 对象创建：
+
+- [Factory Method](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/FactoryMethod)
+- [Bridge](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Bridge)
+- [AbstractFactory](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Abstract Factory)
+- [Prototype](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Prototype)
+- [Builder](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Builder)
