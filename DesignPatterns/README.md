@@ -76,3 +76,47 @@
 - [AbstractFactory](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Abstract Factory)
 - [Prototype](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Prototype)
 - [Builder](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Builder)
+
+### 对象性能：
+
+- [Singleton](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Singleton)
+- [Flyweight(享元模式)](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Flyweight)
+
+### 接口隔离:
+
+- [Façade(门面模式)](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Facade)
+- [Proxy](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Proxy)
+- [Mediator(中介者)](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Mediator)
+- [Adapter](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Adapter)
+
+### 状态变化：
+
+- [Memento(备忘录)](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Memento)
+- [State](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/State)
+
+### 数据结构：
+
+- [Composite(组合模式)](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Composite)
+- [Iterator](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Iterator)
+- [Chain of Resposibility(职责链)](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/ChainOfResposibility)
+
+### 行为变化：
+
+- [Command](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Command)
+- [Visitor](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Visitor)
+
+### 领域问题：
+- [Interpreter](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Interpreter)
+
+## 总结
+
+### 现代较少用的模式
+
+- Builder
+- Mediator
+- Memento
+- Iterator
+- Chain of Resposibility
+- Command
+- Visitor
+- Interpreter
