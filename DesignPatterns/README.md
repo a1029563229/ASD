@@ -52,7 +52,7 @@
 
 8.针对接口编程，而不是针对实现编程
 
-- 不将变量类型生命为某个特定的具体类，而是声明为某个接口；
+- 不将变量类型声明为某个特定的具体类，而是声明为某个接口；
 - 客户程序无需获取对象的具体类型，只需要知道对象所具有的接口；
 - 减少系统中的各部分的依赖关系，从而实现“高内聚、松耦合”的类型设计方案；
 
@@ -73,7 +73,7 @@
 
 - [Factory Method](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/FactoryMethod)
 - [Bridge](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Bridge)
-- [AbstractFactory](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Abstract Factory)
+- [AbstractFactory](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/AbstractFactory)
 - [Prototype](https://github.com/a1029563229/ASD/tree/master/DesignPatterns/src/Prototype)
 
 ### 对象性能：
